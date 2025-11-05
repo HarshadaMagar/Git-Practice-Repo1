@@ -1,0 +1,6 @@
+name: My First YAML File
+course: Git and GitHub
+topics:
+  - Git Basics
+  - GitHub
+  - YAML
